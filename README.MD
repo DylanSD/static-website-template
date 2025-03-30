@@ -35,6 +35,8 @@ npm run build
 npm run watch
 ```
 
+Note may want to use sass instead of node-sass and also replace node-run-all with concurrently maybe
+
 ## Demo
 
 Integrates smoothly with netlify:
